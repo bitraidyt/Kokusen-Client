@@ -124,6 +124,6 @@
 ## 📦 Installation
 
 ### Automatic (Recommended)
-1. Download `KokusenClient-1.0.0.jar` from [Releases](https://github.com/bitraidyt/KokusenClient/releases)
+1. Download `KokusenClient-1.0.0.jar` from [Releases](https://github.com/bitraidyt/Kokusen-Client/releases)
 2. Place the JAR file into your `.minecraft/mods/` folder
 3. Launch Minecraft with the Fabric profile
