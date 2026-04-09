@@ -1,8 +1,8 @@
-# ⚡ KokusenClient
+# ⚡ Kokusen Client
 
 ## 📖 Description
 
-**KokusenClient** is a lightweight, open-source utility mod for Minecraft Fabric 1.21.11. Inspired by the Black Flash (黒閃) technique from Jujutsu Kaisen – a distortion in space where cursed energy is applied within one-millionth of a second – KokusenClient delivers precise, high-speed modifications to enhance your gameplay experience.
+**Kokusen Client** is a lightweight, open-source utility mod for Minecraft Fabric 1.21.11. Inspired by the Black Flash (黒閃) technique from Jujutsu Kaisen – a distortion in space where cursed energy is applied within one-millionth of a second – KokusenClient delivers precise, high-speed modifications to enhance your gameplay experience.
 
 **KokusenClient** features toggleable modules including Sprint, Flight, NoFall, Fullbright, ESP, X-Ray, KillAura, Scaffold, AutoTool, and many more. Built for performance and stealth, this client is perfect for players who want complete control over their Minecraft experience.
 
